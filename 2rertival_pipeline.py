@@ -44,6 +44,3 @@ for i, doc in enumerate(relevant_docs, 1):
 # 3. "What was Microsoft's first hardware product release?"
 # 4. "How much did Microsoft pay to acquire GitHub?"
 # 5. "In what year did Tesla begin production of the Roadster?"
-# 6. "Who succeeded Ze'ev Drori as CEO in October 2008?"
-# 7. "What was the name of the autonomous spaceport drone ship that achieved the first successful sea landing?"
-# 8. "What was the original name of Microsoft before it became Microsoft?"
